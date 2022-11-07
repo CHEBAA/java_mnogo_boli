@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class task_B {
+public class task_B {//нормальное имя нужно давать!)
     public static void main (String[] args){
         System.out.println("Введите ддину массива");
         Scanner in = new Scanner(System.in);
